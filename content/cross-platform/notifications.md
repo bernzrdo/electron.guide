@@ -12,14 +12,14 @@ documentation: https://electronjs.org/docs/api/notification
 
 Windows 10    | Windows 7
 --------|------
-{{< figure src="/static/images/notifications/win10_basic.png" title="Basic">}} | {{< figure src="/static/images/notifications/win7_basic.png" title="Basic" >}}
-{{< figure src="/static/images/notifications/win10_image.png" title="Notification with image" >}} | {{< figure src="/static/images/notifications/win7_image.png" title="Notification with image" >}}
+{{< figure src="https://bernzrdo.wtf/electron.guide/static/images/notifications/win10_basic.png" title="Basic">}} | {{< figure src="https://bernzrdo.wtf/electron.guide/static/images/notifications/win7_basic.png" title="Basic" >}}
+{{< figure src="https://bernzrdo.wtf/electron.guide/static/images/notifications/win10_image.png" title="Notification with image" >}} | {{< figure src="https://bernzrdo.wtf/electron.guide/static/images/notifications/win7_image.png" title="Notification with image" >}}
 
 ### macOS
 
 Basic    | Notification with image
 --------|------
-{{< figure src="/static/images/notifications/mac_basic.gif" >}}  | {{< figure src="/static/images/notifications/mac_image.gif" >}}
+{{< figure src="https://bernzrdo.wtf/electron.guide/static/images/notifications/mac_basic.gif" >}}  | {{< figure src="https://bernzrdo.wtf/electron.guide/static/images/notifications/mac_image.gif" >}}
 
 ## Extra Info
 

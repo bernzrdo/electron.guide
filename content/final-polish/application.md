@@ -45,7 +45,7 @@ Using Keytar requires the library to be "rebuilt" for each OS/Electron version y
 
 Sometimes Electron Applications mysteriously crash. Other times, they display a hideous error message:
 
-{{< figure src="/static/images/final-polish/application/exception.png" >}}
+{{< figure src="https://bernzrdo.wtf/electron.guide/static/images/final-polish/application/exception.png" >}}
 
 
 You can intercept it and replace the error message with a prettier window:

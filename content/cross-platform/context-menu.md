@@ -12,8 +12,8 @@ documentation: https://electronjs.org/docs/api/menu
 
 Windows 10    | Windows 7
 --------|------
-{{< figure src="/static/images/context-menu/win10_context.png" >}} | {{< figure src="/static/images/context-menu/win7_context.png" >}}
+{{< figure src="https://bernzrdo.wtf/electron.guide/static/images/context-menu/win10_context.png" >}} | {{< figure src="https://bernzrdo.wtf/electron.guide/static/images/context-menu/win7_context.png" >}}
 
 ### macOS
 
-{{< figure src="/static/images/context-menu/mac_context.png" >}}
+{{< figure src="https://bernzrdo.wtf/electron.guide/static/images/context-menu/mac_context.png" >}}
