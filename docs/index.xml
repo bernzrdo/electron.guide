@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>electron.guide</title>
-    <link>https://electron.guide/</link>
+    <link>https://bernzrdo.wtf/electron.guide/</link>
     <description>Recent content on electron.guide</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://electron.guide/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bernzrdo.wtf/electron.guide/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Electron-Alert</title>
-      <link>https://electron.guide/electron-alert/</link>
+      <link>https://bernzrdo.wtf/electron.guide/electron-alert/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://electron.guide/electron-alert/</guid>
+      <guid>https://bernzrdo.wtf/electron.guide/electron-alert/</guid>
       <description>ElectronAlert is a beautiful and developer-friendly alert for Electron applications. It is powered by SweetAlert2 and works directly from the main process.
    Features  WithFrame and Frameless alerts that are visually stunning Toasts with timers Exception handling alert Sounds SweetAlert2-esque API* (v11)  Installation npm install electron-alert  Github https://github.com/rocketlaunchr/electron-alert
 Usage  See SweetAlert2 v11 Documentation for further details (configuration &amp;amp; methods) Not all methods are implemented as yet.</description>
@@ -24,56 +24,56 @@ Usage  See SweetAlert2 v11 Documentation for further details (configuration &amp
     
     <item>
       <title>BrowserWindow</title>
-      <link>https://electron.guide/cross-platform/browser-window/</link>
+      <link>https://bernzrdo.wtf/electron.guide/cross-platform/browser-window/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://electron.guide/cross-platform/browser-window/</guid>
+      <guid>https://bernzrdo.wtf/electron.guide/cross-platform/browser-window/</guid>
       <description> BrowserWindow Windows    Windows 10 Windows 7              macOS   </description>
     </item>
     
     <item>
       <title>Context Menu</title>
-      <link>https://electron.guide/cross-platform/context-menu/</link>
+      <link>https://bernzrdo.wtf/electron.guide/cross-platform/context-menu/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://electron.guide/cross-platform/context-menu/</guid>
+      <guid>https://bernzrdo.wtf/electron.guide/cross-platform/context-menu/</guid>
       <description> Context Menu Windows    Windows 10 Windows 7              macOS   </description>
     </item>
     
     <item>
       <title>Menu</title>
-      <link>https://electron.guide/cross-platform/menu/</link>
+      <link>https://bernzrdo.wtf/electron.guide/cross-platform/menu/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://electron.guide/cross-platform/menu/</guid>
+      <guid>https://bernzrdo.wtf/electron.guide/cross-platform/menu/</guid>
       <description>Menu Windows A Windows applications typically contain a menu bar at the top of the individual window.
    Windows 10 Windows 7              macOS macOS uses a common menu bar at the screen’s top that the operating system and all applications share. When a particular window gets focus, the menu contents change based on the menu required by the window.</description>
     </item>
     
     <item>
       <title>Notifications</title>
-      <link>https://electron.guide/cross-platform/notifications/</link>
+      <link>https://bernzrdo.wtf/electron.guide/cross-platform/notifications/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://electron.guide/cross-platform/notifications/</guid>
+      <guid>https://bernzrdo.wtf/electron.guide/cross-platform/notifications/</guid>
       <description>Notifications Windows    Windows 10 Windows 7       Basic      Basic        Notification with image      Notification with image       macOS    Basic Notification with image              Extra Info  https://electronjs.</description>
     </item>
     
     <item>
       <title>Standard Dialogs</title>
-      <link>https://electron.guide/cross-platform/standard-dialogs/</link>
+      <link>https://bernzrdo.wtf/electron.guide/cross-platform/standard-dialogs/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://electron.guide/cross-platform/standard-dialogs/</guid>
+      <guid>https://bernzrdo.wtf/electron.guide/cross-platform/standard-dialogs/</guid>
       <description> Standard Dialogs Windows    Windows 10 Windows 7       Open file      Open file        Save file      Save file       macOS    Open Save              </description>
     </item>
     
     <item>
       <title>The Final Polish - Application</title>
-      <link>https://electron.guide/final-polish/application/</link>
+      <link>https://bernzrdo.wtf/electron.guide/final-polish/application/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://electron.guide/final-polish/application/</guid>
+      <guid>https://bernzrdo.wtf/electron.guide/final-polish/application/</guid>
       <description>The Final Polish before release Prevent a second instance of your application from running Usually, you only want one instance of your application running at any moment.
 const { app } = require(&amp;#39;electron&amp;#39;) const gotTheLock = app.requestSingleInstanceLock() if (!gotTheLock) { app.exit(0) }  See: https://electronjs.org/docs/api/app#apprequestsingleinstancelock
 Store configuration data Users expect any customizations to their settings to persist on app reload (e.g. computer restart).
@@ -82,10 +82,10 @@ You can use electron-store to save data.</description>
     
     <item>
       <title>The Final Polish - BrowserWindow</title>
-      <link>https://electron.guide/final-polish/renderer/</link>
+      <link>https://bernzrdo.wtf/electron.guide/final-polish/renderer/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://electron.guide/final-polish/renderer/</guid>
+      <guid>https://bernzrdo.wtf/electron.guide/final-polish/renderer/</guid>
       <description>The Final Polish before release The BrowserWindow is actually a chromium web browser!
 Passing data into BrowserWindow If you use React.js for your BrowserWindow javascript, you may need to pass data from the main process to the renderer process just in time for your initial state and props.
 You need to know the difference between these two events: dom-ready and ready-to-show.
@@ -94,10 +94,10 @@ You need to know the difference between these two events: dom-ready and ready-to
     
     <item>
       <title>Tray</title>
-      <link>https://electron.guide/cross-platform/tray/</link>
+      <link>https://bernzrdo.wtf/electron.guide/cross-platform/tray/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://electron.guide/cross-platform/tray/</guid>
+      <guid>https://bernzrdo.wtf/electron.guide/cross-platform/tray/</guid>
       <description> Tray Windows    Windows 10 Windows 7               Tray menu      Tray menu        Balloon      Balloon       macOS   </description>
     </item>
     

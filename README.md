@@ -1,7 +1,7 @@
 
 # ELECTRON.GUIDE
 
-This repo contains the files for the site: https://electron.guide.
+This repo contains the files for the site: https://bernzrdo.wtf/electron.guide.
 
 ## Contribution Guide
 
