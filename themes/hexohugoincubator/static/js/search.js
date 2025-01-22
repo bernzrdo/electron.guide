@@ -20,7 +20,7 @@ window.onload = function () {
   query          = (getParameterByName('q')) ? getParameterByName('q').trim() : '';
  
   request.overrideMimeType("application/json");
-  request.open("GET", "/index.json", true);
+  request.open("GET", "https://bernzrdo.wtf/electron.guide/index.json", true);
   request.onload = function() {
     if (request.status >= 200 && request.status < 400) {
       // Success!
